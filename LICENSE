@@ -1,10 +1,13 @@
-License for Train View SVG Library
+Creative Commons Attribution 4.0 International License (CC BY 4.0)
 
-Project: Train-View
+Copyright (c) 2025 SKI+ | Xavier Jeiziner (Axians Amanox AG)
+
+---
+
+Project: Train View SVG Library (Train-View-SVG-Library)
 Author: Xavier Jeiziner (as part of the Bachelor thesis for SKI+ at the Swiss Distance-Learning University of Applied Sciences FFHS, PiBS Informatik)
 
 Owner:
-
 SKI+
 https://opentransportdata.swiss/de/about-us/
 
@@ -13,10 +16,8 @@ Wylerstrasse 123
 3000 Bern-65
 opendata@sbb.ch
 
-The Train-View-SVG-Library is used in https://github.com/jexnator/train-formation-view and licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
-
-Copyright (c) SKI+ 2025 | Xavier Jeiziner (Axians Amanox AG)
-The full license text is provided below.
+This library is used in https://github.com/jexnator/train-formation-view
+The Train-View-SVG-Library is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
 ---
 
